@@ -3,8 +3,8 @@
 **About Me**
 
 - 👩‍💻 Hi there! I'm Harshini, a passionate Master’s graduate with a keen interest in Python and Data Science.
-- 🎓 Master’s in Computer Science from BTH, Karlskrona, Sweden.
-- 🎓 Bachelors in Computer Science from JNTUH, Hyderabad, India.
+- 🎓 Master’s in Computer Science |📍 BTH, Karlskrona, Sweden.
+- 🎓 Bachelors in Computer Science |📍 JNTUH, Hyderabad, India.
 - 💼 Currently exploring the realms of data analysis, machine learning, and software development.
 - 🌱 Always eager to learn and tackle new challenges in the field of technology.
 - 💬 Open to collaborations and discussions on innovative projects.
@@ -28,13 +28,13 @@ Developed a Python script to convert text to Morse code.
 ❌⭕ **Tic Tac Toe Game**  
 Developed a Python script for a Tic Tac Toe game.
 
-## 🏆 Certifications & Awards 🏆
+## 📜 Certifications & Awards 🏆
 
 - 📜 **PwC Switzerland Power BI Job Simulation**  
   November 2023  
   Completed a job simulation demonstrating expertise in data visualization through the creation of Power BI dashboards.
 
-- 📜 **Academic Scholarship**  
+- 🏆 **Academic Scholarship**  
   Blekinge Institute of Technology  
   Received a 30% scholarship on tuition fees for academic excellence.
 
