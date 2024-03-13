@@ -72,18 +72,6 @@ Remote
 - 📚 NLTK
 - 📷 OpenCV
 
-## 🧠 Soft Skills 🧠
-
-- 👥 Team Management
-- 🗣️ Communication
-- 🔄 Adaptability
-- 🧩 Problem Solving
-- 🔄 Flexibility
-- 📚 Research
-- 🎨 Creativity
-- 🛡️ Integrity
-- 💼 Work Ethic
-
 ## Let's Connect! 🤝
 
 🌐 [LinkedIn](https://www.linkedin.com/in/harshini-devi-arepalli)  
