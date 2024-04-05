@@ -43,7 +43,7 @@ Developed a Python script for a Tic Tac Toe game.
 
 💼 **Data Analyst Intern**  
 Exposys Data Lab  
-Feb 2024 - Present  
+Feb 2024 - Mar 2024  
 Remote  
 - Investigated methods for dataset preparation and implemented predictive modeling to accurately forecast diabetes occurrence.
 
